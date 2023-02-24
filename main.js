@@ -4,7 +4,14 @@ const language = document.getElementById("language");
 const speed = document.getElementById("vol");
 const play = document.getElementById("play");
 const stop = document.getElementById("stop");
+const resetBtn = document.getElementById("reset");
+
 const googleTranslates = document.getElementById("googleTranslate");
+
+resetBtn.addEventListener("click", function () {
+  language.selectedIndex = 0; // Reset to first option
+  text.value = "";
+});
 
 // ?key=Up1NiE9m
 // Start  reading
