@@ -6,6 +6,8 @@ Do not! I say, DO NOT put your password, email, important text in this program. 
 This is just for the use of samll, not important text, you want to listen to instead, such as wikipidia texts, pdf from internet, 
 not important things, that could be find in public acess. These are things I recomend to use this program for. 
 
+Link to results:
+    https://aman-arabzadeh.github.io/Text-to-Speech-Form.github.io/
 
   <!-- I was inpired by:
      https://code.responsivevoice.org/develop/examples/example2.html -->
@@ -15,5 +17,4 @@ not important things, that could be find in public acess. These are things I rec
     translate.google.com
     
     
-    The website is:
-    https://aman-arabzadeh.github.io/Text-to-Speech-Form.github.io/
+
